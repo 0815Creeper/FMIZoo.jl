@@ -23,6 +23,7 @@ FMI = "14a09403-18e3-468f-ad8a-74f8dda2d9ac"
 DifferentialEquationsFMIExt = ["DifferentialEquations", "FMI"]
 
 [compat]
+DifferentialEquations = "7"
 Downloads = "1"
 FilePaths = "0.8"
 FilePathsBase = "0.9"
